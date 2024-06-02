@@ -1,0 +1,7 @@
+Flask==3.0.3
+Flask-RESTful==0.3.10
+celery
+Redis
+SQLAlchemy
+Flask-SQLAlchemy
+psycopg2-binary
